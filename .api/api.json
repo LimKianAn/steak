@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "blockdaemon",
+      "source": "@blockdaemon/v1.0#ldd1ylyr51x6f",
+      "integrity": "sha512-DHcJCqpib7XZ40GxX80bUBy6fWUUIPLy5/vCEM+ZvgdVdj818vcaIgEVsOBvo9nydFkNfQWbCnGOE2TSMlsZhw==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
